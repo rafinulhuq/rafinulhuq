@@ -62,8 +62,10 @@ Focused on architecting resilient backend systems, distributed job workers, rela
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafinulhuq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rafinul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafinulhuq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rafinulhuq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rafinul's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafinulhuq&theme=tokyonight&hide_border=true" alt="Rafinul's Contribution Streak" />
+  <br /><br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafinulhuq&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
