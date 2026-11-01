@@ -1,8 +1,8 @@
 # Hi there, I'm A. M. Rafinul Huq 👋
 
 [![Website](https://img.shields.io/badge/Portfolio-rafinulhuq.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rafinulhuq.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devamrh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devamrh)
-[![Twitter](https://img.shields.io/badge/Twitter-devamrh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devamrh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafinulhuq-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafinulhuq)
+[![Twitter](https://img.shields.io/badge/Twitter-xrafinulhuq-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xrafinulhuq)
 
 **Full-Stack & Backend Engineer** based in Bangladesh.  
 Focused on architecting resilient backend systems, distributed job workers, relational data modeling, and shipping high-performance full-stack web and mobile applications.
