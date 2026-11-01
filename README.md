@@ -71,5 +71,5 @@ Focused on architecting resilient backend systems, distributed job workers, rela
 ### 📬 Get In Touch
 
 - **Portfolio**: [rafinulhuq.com](https://www.rafinulhuq.com)
-- **LinkedIn**: [linkedin.com/in/devamrh](https://linkedin.com/in/devamrh)
+- **LinkedIn**: [linkedin.com/in/rafinulhuq](https://linkedin.com/in/rafinulhuq)
 - **Email**: Reach out via the contact portal on [rafinulhuq.com/contact](https://www.rafinulhuq.com/contact)
